@@ -1,2 +1,2 @@
 # UAS
-aplikasi pendatan atlet taekwondo
+aplikasi pendataan atlet taekwondo
